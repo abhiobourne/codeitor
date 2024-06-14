@@ -40,7 +40,7 @@ const HeroSection = () => {
             </div>
             <h2 className="text-xl font-bold mt-4">Use the Exercism in-browser editor</h2>
             <p className="text-gray-600 dark:text-gray-300 mt-2">
-              Don't spend hours installing a language locally just to try it out. We support all 70 of our programming languages in our in-browser editor.
+              Don&apos;t spend hours installing a language locally just to try it out. We support all 70 of our programming languages in our in-browser editor.
             </p>
           </div>
           <div className="flex flex-col items-center text-center">
@@ -49,7 +49,7 @@ const HeroSection = () => {
             </div>
             <h2 className="text-xl font-bold mt-4">Get AI analysis on your code</h2>
             <p className="text-gray-600 dark:text-gray-300 mt-2">
-              Not quite sure how well you've done? We run AI analysis on your solutions to give you quick feedback and points of improvement.
+              Not quite sure how well you&apos;ve done? We run AI analysis on your solutions to give you quick feedback and points of improvement.
             </p>
           </div>
         </div>
@@ -120,7 +120,7 @@ const HeroSection = () => {
             Practice here
           </h2>
           <p className="text-xl md:text-2xl lg:text-3xl text-gray-600 dark:text-gray-300 mb-16">
-          orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
+          orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s.
           </p>
         </div>
       </div>
